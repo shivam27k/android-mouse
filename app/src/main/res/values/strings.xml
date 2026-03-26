@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">AndroidMouse</string>
+    <string name="app_name">Android Mouse</string>
+    <string name="checking_bluetooth_status">Checking Bluetooth status....</string>
+    <string name="hid_device_api_disconnected">HID Device API disconnected</string>
+    <string name="bluetooth_not_available">Bluetooth not available</string>
+    <string name="bluetooth_is_off">Bluetooth is off</string>
+    <string name="checking_hid_device_api">Checking HID Device API…</string>
+    <string name="could_not_start_hid_api_check">Could not start HID API check</string>
+    <string name="bluetooth_permission_denied">Bluetooth permission denied</string>
+    <string name="move_mouse_test">Move Mouse Test</string>
 </resources>
